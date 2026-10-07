@@ -18,11 +18,11 @@ The same 10 rows (the oldest layoffs), before and after cleaning.
 
 **Raw data (`layoffs_raw`)**: numbers like `75.0`, blanks, `, Non-U.S.` in city names, and `m/d/yyyy` text dates.
 
-![Raw data](images/before_raw.png)
+![Raw data](images/raw_Before_cleanning.png)
 
 **Clean data (`layoffs_clean`)**: whole numbers, real `NULL` values, plain city names, and `yyyy-mm-dd` dates.
 
-![Clean data](images/after_clean.png)
+![Clean data](images/after_cleanning.png)
 
 ## How the data flows
 
